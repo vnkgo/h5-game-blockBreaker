@@ -58,21 +58,8 @@ git clone https://github.com/yangyunhe369/h5-game-blockBreaker.git
 
 或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
 
-## 个人简介
 
-作者：弦云孤赫(David Yang)
 
-职业：web前端开发工程师
-
-爱好：网游、音乐（吉他）
-
-## 联系方式
-
-QQ：314786482
-
-微信：yangyunhe_yyh
-
-坐标：四川成都
 
 ## License
 
